@@ -36,7 +36,7 @@ function Projects() {
             <ProjectCard
               imgPath={movies}
               isBlog={false}
-              title="Bits-0f-C0de"
+              title="PopcornTV"
               description="myMovies is a MERN stack progressive web app (PWA) for everything related to Movies, Shows, and Artists. Movie database is taken from my TMDB API and built using ReactJS, ReduxJS/Toolkit, TailwindCSS, DaisyUI, NodeJS, ExpressJS, and MongoDB."
               ghLink="https://github.com/het-cast/AI-Image-Generator"
               demoLink=""
